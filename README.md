@@ -1,4 +1,5 @@
-![A screenshot of a JetBrains IDE showing a user looking at the magnolia documentation])(https://plugins.jetbrains.com/files/23556/screenshot_14f936fb-0fe7-4502-a5b0-fbc1d3b48f17)
+![A screenshot of a JetBrains IDE showing a user looking at the magnolia documentation](https://plugins.jetbrains.com/files/23556/screenshot_14f936fb-0fe7-4502-a5b0-fbc1d3b48f17)
+
 # Magnolia CMS Integration
 
 [Magnolia CMS Integration](https://plugins.jetbrains.com/plugin/23556-magnolia-cms-integration) is a plugin for JetBrains IDEs that allows you to edit and preview Magnolia CMS templates and resources with ease.
