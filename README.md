@@ -1,3 +1,5 @@
+![Rating](https://img.shields.io/jetbrains/plugin/r/stars/23556) ![Downloads](https://img.shields.io/jetbrains/plugin/d/23556) ![Version](https://img.shields.io/jetbrains/plugin/v/23556)
+
 ![A screenshot of a JetBrains IDE showing a user looking at the magnolia documentation](https://plugins.jetbrains.com/files/23556/screenshot_14f936fb-0fe7-4502-a5b0-fbc1d3b48f17)
 
 # Magnolia CMS Integration
